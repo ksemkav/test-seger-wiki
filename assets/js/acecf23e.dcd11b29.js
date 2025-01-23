@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksegerlab_wiki=self.webpackChunksegerlab_wiki||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/test-seger-wiki/blog","blogTitle":"Blog","authorsListPath":"/test-seger-wiki/blog/authors"}')}}]);

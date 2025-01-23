@@ -4,29 +4,102 @@
         <title>Segerlab Blog</title>
         <link>https://segerlab.ru/test-seger-wiki/blog</link>
         <description>Segerlab Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://segerlab.ru/test-seger-wiki/blog/welcome</link>
-            <guid>https://segerlab.ru/test-seger-wiki/blog/welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
-            <content:encoded><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
-<p>Here are a few tips you might find useful.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
+            <title><![CDATA[Шаблоны]]></title>
+            <link>https://segerlab.ru/test-seger-wiki/blog/2023/07/31/index</link>
+            <guid>https://segerlab.ru/test-seger-wiki/blog/2023/07/31/index</guid>
+            <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[img.png]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="img.png" src="https://segerlab.ru/test-seger-wiki/assets/images/img-61c5c73dc9c7662fbe6a889733823289.png" width="411" height="579" class="img_ev3q"></p>
+<p>Кароч, что теперь в Зегере есть. Когда создаешь новый калькулятор глазури, можно начать не с нуля, а с шаблона. Туда я придумал разнообразных рецептов с разнообразными базами. Хочешь матовую - на. Хочешь пену - пожалуйста. Хочешь прозрачку - вот. Остается только красить, или там немного варьировать компоненты, чтобы править там всякие детали. В описании рецептов есть немного рекомендаций. Но сейчас мы работаем над методичкой, которая бы описывала поведение каждого рецепта, чтобы можно было настраивать глазурь не вслепую.</p>
+<p>Все стандартное там есть, все опробовано. Рецепты прекрасные и круглые. Все на доступных отечественных компонентах. И да, шестой конус. Потому что я за него топлю.</p>
+<p>Спасибо Семену и Рахману за то, что это все запилили. Насте за то что заставила меня всё это обобщить. И всей нашей второй ступени за идею с пресетами.</p>
+<p>Make glazes</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Мини график Сталла]]></title>
+            <link>https://segerlab.ru/test-seger-wiki/blog/2023/06/01/index</link>
+            <guid>https://segerlab.ru/test-seger-wiki/blog/2023/06/01/index</guid>
+            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[img.png]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="img.png" src="https://segerlab.ru/test-seger-wiki/assets/images/img-4b0418a574f69acc8ddca58066affaf6.png" width="406" height="636" class="img_ev3q"></p>
+<p>Новое небольшое обновление (:</p>
+<p>Добавили мини графики Сталла в калькуляторы исследований.
+А ещё обратите внимание, что появилась дата у калькулятора, как в исследовании, так и в обычных калькуляторах. Теперь отслеживать, что это разные версии, должно быть чуточку проще.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Версия 2.0]]></title>
+            <link>https://segerlab.ru/test-seger-wiki/blog/2023/05/19/index</link>
+            <guid>https://segerlab.ru/test-seger-wiki/blog/2023/05/19/index</guid>
+            <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Текстовый редактор.]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="текстовый-редактор">Текстовый редактор.<a href="https://segerlab.ru/test-seger-wiki/blog/2023/05/19/index#%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80" class="hash-link" aria-label="Прямая ссылка на Текстовый редактор." title="Прямая ссылка на Текстовый редактор.">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="img.png" src="https://segerlab.ru/test-seger-wiki/assets/images/img-c9e660129d799bf85148a12a0da8cd77.png" width="1280" height="385" class="img_ev3q"></p>
+<p>Начну с хитов этого обновления — самодостаточный текстовый редактор для исследований.</p>
+<p>Теперь весь ход мыслей и ценнейшие умозаключения можно записать в рецепте на вкладке “Исследование”. Там вы сможете красиво оформить текст, добавить фотографии, ссылки, таблицы, списки и горстка остального.</p>
+<p>И самое крутое на мой взгляд — добавление калькуляторов в текст. Это не просто калькулятор. С ним не получится поработать в привычном режиме (для этого есть вкладка “Калькуляторы”). В тексте отображается историческое состояние оного в момент его добавления в текст.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="печать-исследования">Печать исследования.<a href="https://segerlab.ru/test-seger-wiki/blog/2023/05/19/index#%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" class="hash-link" aria-label="Прямая ссылка на Печать исследования." title="Прямая ссылка на Печать исследования.">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="img_1.png" src="https://segerlab.ru/test-seger-wiki/assets/images/img_1-a526c62d4951262ee9cfd417eba95800.png" width="1104" height="1280" class="img_ev3q"></p>
+<p>Ещё парочка новшеств крутится вокруг того же ведения исследований.
+В случае когда возникнет необходимость, его можно и распечатать. Для этого просто обратитесь к кнопке печать и выберите там пункт, добавляющий исследование в распечатку.</p>
+<p>Более того, для тревожных людей мы теперь всегда печатаем и ваши тексты при нажатии на кнопку “Сохранить всё”.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="сортировка-внутри-папок">Сортировка внутри папок.<a href="https://segerlab.ru/test-seger-wiki/blog/2023/05/19/index#%D1%81%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8-%D0%BF%D0%B0%D0%BF%D0%BE%D0%BA" class="hash-link" aria-label="Прямая ссылка на Сортировка внутри папок." title="Прямая ссылка на Сортировка внутри папок.">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="img_2.png" src="https://segerlab.ru/test-seger-wiki/assets/images/img_2-6c980a6bd949efc195e44f2c69229ce1.png" width="1280" height="794" class="img_ev3q"></p>
+<p>Следующее обновление, но не такое крупное, позволяет пользователям с большим количеством рецептов в папках разложить всё по полочкам.</p>
+<p>Да, возможно это пока не так удобно как могло бы быть, но я искренне верю, что сортировка поможет уменьшить количество неконтролируемого хаоса (:</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="сохранение-всего">Сохранение всего.<a href="https://segerlab.ru/test-seger-wiki/blog/2023/05/19/index#%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D1%81%D0%B5%D0%B3%D0%BE" class="hash-link" aria-label="Прямая ссылка на Сохранение всего." title="Прямая ссылка на Сохранение всего.">​</a></h2>
+<p>Фича-малютка, но суперполезная!</p>
+<p>Клавишесочетание Ctrl + S (а на маках Cmd + S), сохранит вам всё несохраненное! Как на вкладке с калькуляторами, так и на вкладке с исследованием.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="заключение">Заключение.<a href="https://segerlab.ru/test-seger-wiki/blog/2023/05/19/index#%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" class="hash-link" aria-label="Прямая ссылка на Заключение." title="Прямая ссылка на Заключение.">​</a></h2>
+<p>Вдогонку были исправлены мелкие незначительные ошибки, добавлены небольшие косметические улучшения. А ещё можно заметить свежие донатные плашки и царских чувачков для наших любимчиков (:</p>
+<p>Будем очень рады любой обратной связи, особенно если вы нашли какую-то ошибку или у вас есть идея как сделать что угодно удобнее и лучше. Весь ранее упомянутый фидбек я конечно же держу в голове и стараюсь воплощать в жизнь по мере свободного времени.</p>
+<p>А ещё я бы хотел выразить огромную благодарность нашим постоянным подписчикам, ведь именно благодаря Вам у нас есть возможность ежемесячно оплачивать сервера и поддерживать проект в живом состоянии! Как ни крути, мы вынуждены монетизировать проект ради его существования.
+Спасибо! 🥰</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[КТР]]></title>
+            <link>https://segerlab.ru/test-seger-wiki/blog/2023/01/29/index</link>
+            <guid>https://segerlab.ru/test-seger-wiki/blog/2023/01/29/index</guid>
+            <pubDate>Sun, 29 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[img.png]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="img.png" src="https://segerlab.ru/test-seger-wiki/assets/images/img-07d04a96c51a9ddaaa07d623543f2936.png" width="541" height="741" class="img_ev3q"></p>
+<p>Новые фичи, которые недавно у нас появились (:</p>
 <ul>
-<li><code>2019-05-30-welcome.md</code></li>
-<li><code>2019-05-30-welcome/index.md</code></li>
-</ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://segerlab.ru/test-seger-wiki/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
+<li>Панелька с именем рецепта и нужными кнопками теперь статическая и катается с вами по всей странице при скролле. Всё для того, чтобы в любой момент было понятно что это за рецепт и можно было быстро создать новый калькулятор</li>
+<li>Добавили расчётный КТР в калькуляторах. Теперь есть волшебная циферка на которую можно ориентироваться и делать разные выводы</li>
+<li>Добавлен переключатель для включения в расчёты добавок в калькуляторах. Так вы сможете быстро посмотреть насколько они влияют на формулу Зегера, молярный процент, а так же на все коэффициенты, включая КТР</li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Расчёты растяжек]]></title>
+            <link>https://segerlab.ru/test-seger-wiki/blog/2022/12/31/index</link>
+            <guid>https://segerlab.ru/test-seger-wiki/blog/2022/12/31/index</guid>
+            <pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[img.png]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="img.png" src="https://segerlab.ru/test-seger-wiki/assets/images/img-502fc375e5988483f5e755280e89521a.png" width="529" height="375" class="img_ev3q"></p>
+<p>Поздравляю всех с новым годом! 🎄</p>
+<p>Новогодний подарок — новая версия Зегера, в которой теперь доступны расчёты линейных, треугольных и прямоугольных растяжек!</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ну чего, релизим Зегера!]]></title>
+            <link>https://segerlab.ru/test-seger-wiki/blog/2022/09/20/index</link>
+            <guid>https://segerlab.ru/test-seger-wiki/blog/2022/09/20/index</guid>
+            <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Это глазурный калькулятор для керамистов заточенный для использования с десктопа. В нем можно рассчитывать собственные глазури пользуясь формулой Зегера, графиком Сталла и молярным процентом.]]></description>
+            <content:encoded><![CDATA[<p>Это глазурный калькулятор для керамистов заточенный для использования с десктопа. В нем можно рассчитывать собственные глазури пользуясь формулой Зегера, графиком Сталла и молярным процентом.</p>
+<p>Структура Зегера отличается от того что использует например Глейзи. Есть папки, в них лежат рецепты, а в них уже глазурные калькуляторы. Если вы делаете тесты - растяжки, треугольники или квадраты, то можно в одном рецепте создать несколько калькуляторов и потом загрузить фотографии результатов.</p>
+<p>Можно вводить свои материалы, или пользоваться предустановленными. Мы их постоянно пополняем. Все основные материалы для изготовления глазурей туда уже вбиты.</p>
+<p>Это не социальная сеть и ваши глазури видите только вы. Но если хочется поделиться рецептом, то можно сделать его доступным по ссылке.</p>
+<p>Зегер бесплатный. Но затраты на содержание сервера, бэкапы (о да, мы надежно все храним) ложатся на меня и есть ограничения, которые касаются в основном загрузки фотографий и не влияют на основной функционал.</p>
+<p>Делали Зегер мы небольшой командой. Я - дизайн, Семен и Рахман - разработку и верстку.
+Иллюстрации делала Алиса, а тестировала все Настя. Я вам их еще представлю поподробнее.</p>
+<p>Несмотря на ограниченный пока еще функционал сервиса, только Семен с Рахманом потратили на это все 550 рабочих часов, включающих в основном бессонные ночи после работы. Они больше всех заслуживают благодарности и рукоплесканий.</p>
+<p>Это некоммерческий проект. Но мы хотим иметь возможность его развивать. Поэтому, вы можете пожертвовать на его развитие произвольную сумму денег. А в ответ мы увеличим для вас лимиты на фотографии и там всякие мелкие штуки. Но главное, что мы сможем улучшить Зегер. Список улучшений, который мы запланировали открыт и вы его увидите внутри.</p>
+<p>А пока - регистрируйтесь смотрите что там как, пишите.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
